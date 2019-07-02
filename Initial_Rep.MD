@@ -1,44 +1,72 @@
-60% Initial board: 
+## 60% Initial board: 
 
-Melissa Ran - Incubation Queen - bitfwd
-Bob Jiang - Agile #Blockathon Dragon - HiBlock
-Daniel Bar - Founder and #Cryptopreneur - bitfwd
+**Melissa Ran** - Incubation and Ops Queen - bitfwd
+**Bob Jiang** - Agile and Scrum #Blockathon Dragon - HiBlock
+**Daniel Bar** - Founder and #Cryptopreneur - bitfwd
 
 
-10% - Early Community Contributors: 
-Anna
-Julia 
-Xiaokang
-Jess (HiBlock)
-Cynthia 
-Neo
-Rosie Peach
-Jenny Jinjing
-Eylon
-Kate
-Livia
-Matan
-BrianXV
-Baden
-Denise
-Daud
-Tom
-Chengdong
-Adrian gue
+## 10% - Early Community Contributors: 
 
-10% - Ecosystem partners: 
-AlphaWallet representative
-Alice representative
+**Anna Grechko** - bitfwd
+**Julia Lizunova** - bitfwd
+**Xiaokang Zhou** - bitfwd
+**Jess** - HiBlock
+**Cynthia Chengfang** - HiBlock 
+**Neo** - bitfwd
+**Rosie Peach Prom** - bitfwd
+**Jenny Jinjing** - bitfwd
+**Eylon Aviv** - DAOstack
+**Kate Beecroft** - DAOstack
+**Livia Deschermayer** - DAOstack
+**Matan Field** - DAOstack
+**BrianXV** - bitfwd 
+**Baden Pailthorpe** - Blocumenta
+**Denise Thwaites** - Blocumenta
+**Daud** - bitfwd
+**Tom Terado** - bitfwd
+**Chengdong Pan** - bitfwd
+**Adrian Guerrera**  - Deepyr
+**Lucy Lin** - Forestlyn
+**Bonnie Yu** - Consuler
+**Garrett MacDonald** - Energyweb
+**Hutch (The flying)** - Polkadot
+**Peter Godboldt** - Hut34
+**Tim McNamarra** - Hut34
+**Terry Hilsberg** - Innohub
+**Jayden Wei** - HyperDAO
+**Jemma Xu** - ProximaX
+**Thanh Le** - NEM
 
-10% Advisors: 
-Audrey Tan (Angels of Impact)
-Prof. Aelita Skarzauskiene 
-Prof. Alex Sims 
-Howard Hayeah
 
-10% - Community Organizers:
-Adriana
-James Zaki
-Oscar
-Paul Poundendis
-Alex Ramsey
+## 10% - Ecosystem partners: 
+**AlphaWallet** representative
+**Alice** representative
+**CryptoChicks**
+**Coinstop**
+**ConsenSys BUIDL**
+**ETHSydney**
+**LinkTime**
+**dOrg**
+
+
+## 10% Advisors: 
+**Audrey Tan** (Angels of Impact)
+**Prof. Aelita Skarzauskiene** 
+**Prof. Alex Sims** 
+**Howard Hayeah**
+**Nathan Doctor** 
+
+## 10% - Community Organizers:
+**Adriana Belotti** - Blockchain professionals
+**James Zaki** - Indie ETH and maker community educator
+**Oscar Jiong** - Blockchain Center Sydney
+**Paul Poundendis** - Adelaide Blockchain / Blockchain Australia
+**Alex Ramsey** - Flexdapps / web3 Australia
+**Anett Rolikova** - Progressbar
+**Ian Love** - Blockchain Assets
+**Tomer Weiss** - Jangolabs
+**Lucas Cullen** - Brisbane
+**Angela Bee Chan**  - HackAUS
+**Mark Pascal** - Welly crypto
+**Hayden** - Auckland
+**Karen Cohen** - Blockchain Australia
