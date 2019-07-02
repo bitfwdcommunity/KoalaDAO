@@ -36,6 +36,7 @@
 **Jayden Wei** - HyperDAO
 **Jemma Xu** - ProximaX
 **Thanh Le** - NEM
+**Rosa Thompson** - ex ConsenSys 
 
 
 ## 10% - Ecosystem partners: 
