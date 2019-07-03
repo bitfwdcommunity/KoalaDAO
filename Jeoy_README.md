@@ -11,7 +11,7 @@ The mission KoalaDAO embody is to bootsrap a peer-to-peer cryptoeconomy, serve t
 The culture of KoalaDAO is celebrating entrepreneurship action bias approach, minimize bureaucracy and self correct as issues arrise. We see grassroots driven initiative as core value to the success of the true p2p economy movement. A big focus for KoalaDAO is the onboarding of people into the web3 ecosystem and education.  
 
 - Entrepreneurship, grassroots lead, onboarding and
-- Draw from Kate's post in DAOtalk and the discussion there [https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670?u=exponent](DAOtalk culture discussion)
+- Draw from Kate's post in DAOtalk and the discussion there [ https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670 ](DAOtalk culture discussion)
 - Bob to lead sprints and retrospect with 2 weeks evaluation cycles
 - Mel to lead process operation
 
