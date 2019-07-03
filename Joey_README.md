@@ -46,6 +46,7 @@ The KoalaDAO will have initial stakeholders from the following 4 groups
 1. Bush Rangers (Advisors) - Independent members who will provide the Eucalyptus tree committee feedback.
 
 - Reputation Dynamics 
+
 **Earning**
 1. Earning reputation can be done in 2 ways (potentially other ways later)
  1. With a reputation request which outlines the reason the proposer believes they should receive it
