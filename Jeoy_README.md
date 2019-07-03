@@ -23,22 +23,39 @@ Good reference for culture discussion by [Kate Beecroft can be found on DAOtalk]
 ### Operation
 - Sprints: Facilitated by Melissa Ran
 * Every fortnight will be kicked off with a KoalaDAO catchup call with updates from teams re:
-1. Sprint targets
-1. 2 No-Fail-Goals that will be set for each project team
+1. **Sprint targets** Each project team will share Sprint targets on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827086)
+1. **2 No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082)
 
-- Retrospects: Facilitated by Melissa Ran
-At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals
+- Retrospects: Facilitated by Melissa Ran 👸🏻⏩🌈
+At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals, reporting will be done on the KoalaDAO open Kanban in the respective columns. 
 
 - Agile Project plan: Facilitated by Bob Jiang 🐲⏩🌈
 Every project will get support of agile and scrum checkins and process design with Bob Jiang's help.
 
-- Office Hours: Facilitated by Daniel Bar 
+- Office Hours: Facilitated by Daniel Bar 🥳⏩🌈
 Teams will be able to get checkins with mentors from the bitfwd network
 
-Bob Jiangto lead sprints and retrospect with 2 weeks evaluation cycles
-- Mel to lead process operation
 
 ### Governance 
+At the initial phase, the Eucalyptus tree committee will hold majority reputatoin and will oversee the operation of the KoalaDAO until there's momentum and the culture is healthy enough. Past that point hopefully the reputation will evolve dynamically to reflect the contributors impact, merit and accountability. 
+
+The KoalaDAO will have initial stakeholders from the following 4 groups
+1. Community 
+1. Communities Organizers
+1. Eucalyptus Tree Committee
+1. Advisors (Forest Rangers)
+
+- Earning and slashing
+1. Earning reputation can be done in 2 ways (potentially other ways later)
+ 1. With a reputation request which outlines the reason the proposer believes they should receive it
+ 1. During the fortnightly retrospect the Eucalyptus tree facilitator will review the performance of the contributors and will be able to suggest reputation allocation to members based on their work's impact and the merit they showed
+
+1. Slashing of reputation can happen in 2 ways (potentially other ways later) 
+ 1. If a KoalaDAO rep holder exhibit actions which other members wish to propose a slashing or their rep they are free and encouraged to do so
+ 1. During the fortnightly retrospect the Eucalyptus tree facilitator will review the performance of the contributors and will be able to suggest reputation slashing to members based on their work's impact, merit and accountability.
+ 
+ 
+
 Eucalyptus tree committee 
 Community members
 Community partners
