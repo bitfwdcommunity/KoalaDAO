@@ -45,11 +45,13 @@ The KoalaDAO will have initial stakeholders from the following 4 groups
 1. Eucalyptus Tree Committee - The inaugal committee that will bootsrap the KoalaDAO operationally 
 1. Bush Rangers (Advisors) - Independent members who will provide the Eucalyptus tree committee feedback.
 
-- Earning and slashing
+- Reputation Dynamics 
+**Earning**
 1. Earning reputation can be done in 2 ways (potentially other ways later)
  1. With a reputation request which outlines the reason the proposer believes they should receive it
  1. During the fortnightly retrospect the Eucalyptus tree facilitator will review the performance of the contributors and will be able to suggest reputation allocation to members based on their work's impact and the merit they showed
 
+**Slashing**
 1. Slashing of reputation can happen in 2 ways (potentially other ways later) 
  1. If a KoalaDAO rep holder exhibit actions which other members wish to propose a slashing or their rep they are free and encouraged to do so
  1. During the fortnightly retrospect the Eucalyptus tree facilitator will review the performance of the contributors and will be able to suggest reputation slashing to members based on their work's impact, merit and accountability.
