@@ -24,7 +24,7 @@ Good reference for culture discussion by [Kate Beecroft can be found on DAOtalk]
 - Sprints: Facilitated by Melissa Ran
 * Every fortnight will be kicked off with a KoalaDAO catchup call with updates from teams re:
 1. **Sprint targets** Each project team will share Sprint targets on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827086)
-1. **2 No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082)
+1. **No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082)
 
 - Retrospects: Facilitated by Melissa Ran 👸🏻⏩🌈
 At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals, reporting will be done on the KoalaDAO open Kanban in the respective columns. 
@@ -40,10 +40,10 @@ Teams will be able to get checkins with mentors from the bitfwd network
 At the initial phase, the Eucalyptus tree committee will hold majority reputatoin and will oversee the operation of the KoalaDAO until there's momentum and the culture is healthy enough. Past that point hopefully the reputation will evolve dynamically to reflect the contributors impact, merit and accountability. 
 
 The KoalaDAO will have initial stakeholders from the following 4 groups
-1. Community 
-1. Communities Organizers
-1. Eucalyptus Tree Committee
-1. Advisors (Forest Rangers)
+1. Community - the early joeys
+1. Communities Organizers -  KoalaDAO friends who manage other communities
+1. Eucalyptus Tree Committee - The inaugal committee that will bootsrap the KoalaDAO operationally 
+1. Bush Rangers (Advisors) - Independent members who will provide the Eucalyptus tree committee feedback.
 
 - Earning and slashing
 1. Earning reputation can be done in 2 ways (potentially other ways later)
@@ -54,23 +54,27 @@ The KoalaDAO will have initial stakeholders from the following 4 groups
  1. If a KoalaDAO rep holder exhibit actions which other members wish to propose a slashing or their rep they are free and encouraged to do so
  1. During the fortnightly retrospect the Eucalyptus tree facilitator will review the performance of the contributors and will be able to suggest reputation slashing to members based on their work's impact, merit and accountability.
  
- 
+#### Eucalyptus Tree Committee
+The eucalyptus tree committee will act as the crew to oversee the guidance around minimaly required administration processes, culture, and project prioritization. **The eucalyptus tree committee will have regular monthly call that will have resolution shared with the KoalaDAO community**.
+- The committee will accept proposals to join based on merit after the 3 months mark.
 
-Eucalyptus tree committee 
-Community members
-Community partners
-Advisors
+##### Bush Rangers (Advisors)
+The rangers' role is to be there in case the Eucalyptus tree committee needs to review the structure of governance or operation processes and provide mentorship where needed. The rangers can be changed through a proposal to the KoalaDAO
 
-The eucalyptus tree committee will act as the crew to oversee the guidance around administration processes, culture, and project prioritization. The eucalyptus tree committee will have regular monthly call that will have resolution shared with the KoalaDAO community.
+* These are guidelines for how to start with operation and governance and this will be reviewed over time to see if there are cases that haven't been thought through and van be improved.
 
 
 ### Areas of activity
-one liner
-
+the KoalaDAO will initially start by working on the following channels:
 
 
 ## China
-The **KoalaDAO** as a gateway to the **PanDAO** and other ecosystem building DAOs
+The **KoalaDAO** will serve DAOstack by opening the channel to the Chinese market
+- Meetups with leading crypto communities in major innocation hubs: Shenzhen, Beijing, Hangzou, Chengdu, Shanghai
+- Content localization
+- #Blockathon DAO China 
+- Alchemy interface in Chinese
+- Establish a Chinese community DAO similar to Genesis / KoalaDAO the **PanDAO** 🐼⏩🌈
 
 ## UX and Mobile
 The KoalaDAO
