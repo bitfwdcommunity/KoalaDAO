@@ -37,7 +37,8 @@
 **Jemma Xu** - ProximaX
 **Thanh Le** - NEM
 **Rosa Thompson** - ex ConsenSys 
-
+**Tudor** - Canberra Nuls
+**Hao Fu** UNSW, Alice
 
 ## 10% - Ecosystem partners: 
 **AlphaWallet** representative
