@@ -8,11 +8,34 @@ The KoalaDAO mission is to manage projects and resources as a decentralized ecos
 The mission KoalaDAO embody is to bootsrap a peer-to-peer cryptoeconomy, serve the broad web3 ecosystem and specifically nourish the DAOstack ecosystem as a foundation.
 
 ### Culture focus
-The culture of KoalaDAO is celebrating entrepreneurship action bias approach, minimize bureaucracy and self correct as issues arrise. We see grassroots driven initiative as core value to the success of the true p2p economy movement. A big focus for KoalaDAO is the onboarding of people into the web3 ecosystem and education.  
+The culture of KoalaDAO:
+- **Celebrating entrepreneurship**
+ Encourage impactful action bias approach, minimize bureaucracy and self correct as issues arrise. 
+ 
+ - **Grassroots driven** 
+  Core value to our ethos are initiatives that promote the success of the true p2p economy movement. 
+  
+  - **Onboarding and education** 
+  A big focus for KoalaDAO is true diversity and inclusion through the onboarding and education using mediums like #Blockathon events, content, and other initiatives in the web3 ecosystem.  
 
-- Entrepreneurship, grassroots lead, onboarding and
-- Draw from Kate's post in DAOtalk and the discussion there [DAOtalk culture discussion](https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670)
-- Bob to lead sprints and retrospect with 2 weeks evaluation cycles
+Good reference for culture discussion by [Kate Beecroft can be found on DAOtalk](https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670)
+
+### Operation
+- Sprints: Facilitated by Melissa Ran
+Every fortnight will be kicked off with a KoalaDAO catchup call with updates from teams re:
+Sprint targets
+2 No-Fail-Goals that will be set for each project team
+
+- Retrospects: Facilitated by Melissa Ran
+At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals
+
+- Agile Project plan: Facilitated by Bob Jiang 🐲⏩🌈
+Every project will get support of agile and scrum checkins and process design with Bob Jiang's help.
+
+- Office Hours: Facilitated by Daniel Bar 
+Teams will be able to get checkins with mentors from the bitfwd network
+
+Bob Jiangto lead sprints and retrospect with 2 weeks evaluation cycles
 - Mel to lead process operation
 
 ### Governance 
