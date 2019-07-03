@@ -22,9 +22,9 @@ Good reference for culture discussion by [Kate Beecroft can be found on DAOtalk]
 
 ### Operation
 - Sprints: Facilitated by Melissa Ran
-Every fortnight will be kicked off with a KoalaDAO catchup call with updates from teams re:
-Sprint targets
-2 No-Fail-Goals that will be set for each project team
+* Every fortnight will be kicked off with a KoalaDAO catchup call with updates from teams re:
+##### Sprint targets
+##### 2 No-Fail-Goals that will be set for each project team
 
 - Retrospects: Facilitated by Melissa Ran
 At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals
