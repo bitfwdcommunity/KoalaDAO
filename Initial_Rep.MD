@@ -61,7 +61,7 @@
 ## 10% - Community Organizers:
 **Adriana Belotti** - Blockchain professionals
 **James Zaki** - Indie ETH and maker community educator
-**Oscar Jiong** - Blockchain Center Sydney
+**Oscar Ji** - Sydney Blockchain Centre
 **Paul Poundendis** - Adelaide Blockchain / Blockchain Australia
 **Alex Ramsey** - Flexdapps / web3 Australia
 **Anett Rolikova** - Progressbar
