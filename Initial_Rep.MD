@@ -14,7 +14,7 @@
 **Cynthia Chengfang** - HiBlock 
 **Neo** - bitfwd
 **Rosie Peach Prom** - bitfwd
-**Jenny Jinjing** - bitfwd
+**Jenny Jingjing Li** - bitfwd
 **Eylon Aviv** - DAOstack
 **Kate Beecroft** - DAOstack
 **Livia Deschermayer** - DAOstack
