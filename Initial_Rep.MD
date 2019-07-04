@@ -1,7 +1,9 @@
 ## 60% Initial board (: Eucalyptus Tree Committee🍃)
 
 **Melissa Ran** - Ops, China and Incubation Empress - bitfwd
+
 **Bob Jiang** - Agile and Scrum #Blockathon Dragon - HiBlock
+
 **Daniel Bar** - Founder and #Cryptopreneur - bitfwd
 
 
