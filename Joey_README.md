@@ -47,7 +47,7 @@ Teams will be able to get checkins with mentors from the bitfwd network
 - [Jenny Jinkjonk 🦆⏩🌈](twitter.com/notjingjing)
 
 ### Governance 
-At the initial phase, the Eucalyptus tree committee will hold majority reputatoin and will oversee the operation of the #KoalaDAO until there's momentum and the culture is healthy enough. Past that point hopefully the reputation will evolve dynamically to reflect the contributors impact, merit and accountability. 
+
 
 The #KoalaDAO will have initial stakeholders from the following 4 groups
 1. Community - the early joeys
@@ -72,7 +72,17 @@ The #KoalaDAO will have initial stakeholders from the following 4 groups
 The Eucalyptus Tree committee will act as the crew to oversee the guidance around minimaly required administration processes, culture, and project prioritization. **The eucalyptus tree committee will share a regular monthly resolution with the 
 #KoalaDAO community**.
 
+- **3-6 months horizon:**
+
+Inaugaural Eucalyptus Tree Committee will facilitate the bootstrapping of the #KoalaDAO.
+
+At the initial phase, the Eucalyptus Tree Committee will hold majority reputatoin and will oversee the operation of the #KoalaDAO to ensure momentum is set and the culture is healthy. Past 3 months, the intention is to evolve the reputation dynamically to reflect the contributors impact, merit and accountability. 
+
 - The committee will be open for rotation and new members after the initial 3 months.
+
+- **6-12 months horizon:**
+
+The Eucalyptus Tree Committee will encourage the rotation of the inaugural committee members in case they have not naturally moved on. 
 
 ##### Bush Rangers (Advisors)
 The rangers' role is to be there in case the Eucalyptus tree committee needs to review the structure of governance or operation processes and provide mentorship where needed. The rangers can be changed through a proposal to the #KoalaDAO
@@ -94,6 +104,8 @@ The **KoalaDAO** will serve DAOstack by opening the channel to the Chinese marke
 
 ## UX and Mobile
 The KoalaDAO
+
+## Digital/DAO Culture Configuration 
 
 ## Social Impact and Education
 The KoalaDAO
