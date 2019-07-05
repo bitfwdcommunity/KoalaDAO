@@ -9,7 +9,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 ## 60% Initial board (: Eucalyptus Tree Committee🍃)
 
-**You?** - Ops, Incubation hopper - bitfwd
+**You?** - Ops, Incubation hopping Facilitator - bitfwd
 
 **Bob Jiang** - Agile and Scrum #Blockathon Dragon - HiBlock
 
