@@ -40,6 +40,11 @@ Every project will get support of agile and scrum checkins and process design wi
 - Office Hours: Facilitated by [Daniel Bar 🥳⏩🌈](twitter.com/danieltbar)
 Teams will be able to get checkins with mentors from the bitfwd network
 
+- **Community Gardnerers**
+
+- [BrianXV 😎⏩🌈 ](twitter.com/brianxv15)
+
+- [Jenny Jinkjonk 🦆⏩🌈](twitter.com/notjingjing)
 
 ### Governance 
 At the initial phase, the Eucalyptus tree committee will hold majority reputatoin and will oversee the operation of the #KoalaDAO until there's momentum and the culture is healthy enough. Past that point hopefully the reputation will evolve dynamically to reflect the contributors impact, merit and accountability. 
