@@ -35,6 +35,7 @@ The application will be assessed based on your answers to the following:
 
 1. Why do you want to join the #KoalaDAO (e.g. I'm a UI designer / community organizer, interested in #cryptopreneurship)
 1. 3 - 15 words that describe web3 native entrepreneurship to you (e.g. building the tools for p2p economy)
+
 1. Meme your way in by using twitter (or other public open social platform), sharing 2 of the following options of your choice
  1. Tweet length post with one or more of the Koalas images related to #KoalaDAO, tagging [@bitfwdxyz](twitter.com/bitfwdxyz) and [DAOstack](twitter.com/daostack)
  1. Refer 2 interested peers by twitting something along the lines: Hey <peer name>, checkout the #KoalaDAO, great entrepreneurship driven DAO on [@DAOstack](twitter.com/daostack)
