@@ -26,7 +26,7 @@ Good reference for culture discussion by [Kate Beecroft can be found on DAOtalk]
 1. **Sprint targets** Each project team will share Sprint targets on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827086)
 1. **No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082)
 
-- Retrospects: Facilitated by Melissa Ran 👸🏻⏩🌈
+- Retrospects: Facilitated by [Melissa Ran 👸🏻⏩🌈](twitter.com/melissaran)
 At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals, reporting will be done on the KoalaDAO open Kanban in the respective columns. 
 
 - Agile Project plan: Facilitated by Bob Jiang 🐲⏩🌈
