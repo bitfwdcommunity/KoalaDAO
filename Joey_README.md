@@ -10,13 +10,16 @@ The mission #KoalaDAO embody is to bootsrap a peer-to-peer cryptoeconomy, serve 
 ### Culture focus
 The culture of #KoalaDAO:
 - **Celebrating entrepreneurship**
- Encourage impactful action bias approach, minimize bureaucracy and self correct ruthlessly as issues arrise. 
+
+Encourage impactful action bias approach, minimize bureaucracy and self correct ruthlessly as issues arrise. 
  
  - **Grassroots driven** 
-  Core value to our ethos are initiatives that promote the success of the true p2p economy movement.
+
+Core value to our ethos are initiatives that promote the success of the true p2p economy movement.
   
   - **Onboarding and education** 
-  A big focus for KoalaDAO is true diversity and inclusion through the onboarding and education using mediums like #Blockathon events, content, and other initiatives in the web3 ecosystem.  
+  
+A big focus for KoalaDAO is true diversity and inclusion through the onboarding and education using mediums like #Blockathon events, content, and other initiatives in the web3 ecosystem.  
   
 *  Check the link to a [YouTube video of a recent #Blockathon DAO event bitfwd did with DAOstack](https://www.youtube.com/watch?v=eHsdvfZ4QOU)
 
