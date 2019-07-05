@@ -1,6 +1,15 @@
+# List of potential initial reputation hodlers
+
+Syntax for contacts to which a message was sent and those who filled the form and are interested: 
+
+**Sent** -  📧 
+
+**Interested and Filled** - 🥳
+
+
 ## 60% Initial board (: Eucalyptus Tree Committee🍃)
 
-**Melissa Ran** - Ops, China and Incubation Empress - bitfwd
+**You?** - Ops, Incubation hopper - bitfwd
 
 **Bob Jiang** - Agile and Scrum #Blockathon Dragon - HiBlock
 
