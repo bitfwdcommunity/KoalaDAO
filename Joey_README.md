@@ -1,11 +1,11 @@
-# KoalaDAO V 1.0 - Joey
- This is readme file outlines how the bitfwd community will roll out the KoalaDAO experiment as a testbed for innovation and entrepreneurship in web3 native environment. 
+# #KoalaDAO V 1.0 - Joey
+ This is readme file outlines how the [bitfwd community](twitter.com/bitfwdxyz) will roll out the #KoalaDAO experiment as a testbed for innovation and entrepreneurship in web3 native environment. 
 
 ## Brief
-The KoalaDAO mission is to manage projects and resources as a decentralized ecosystem accelerator community. At the initial stage, the majority of the reputation will be held with the eucalyptus tree committee as described in the governance section. The reputation will be dynamically adjusted using DAOstack's Alchemy platform. The stakeholders of KoalaDAO are diverse and come from different organizations or are independent contributors and others. 
+The #KoalaDAO mission is to manage projects and resources as a decentralized ecosystem accelerator community. At the initial stage, the majority of the reputation will be held with the [eucalyptus tree committee](https://github.com/bitfwdcommunity/KoalaDAO/blob/master/Initial_Rep.MD#60-initial-board--eucalyptus-tree-committee) as described in the governance section below. The reputation will be dynamically adjusted using DAOstack's Alchemy platform. Stakeholders of #KoalaDAO are diverse and come from different organizations or are independent contributors and others. 
 
 ### Web3 ecosystem acceleration
-The mission KoalaDAO embody is to bootsrap a peer-to-peer cryptoeconomy, serve the broad web3 ecosystem and specifically nourish the DAOstack ecosystem as a foundation.
+The mission #KoalaDAO embody is to bootsrap a peer-to-peer cryptoeconomy, serve the broad web3 ecosystem and specifically nourish the DAOstack ecosystem as a foundation.
 
 ### Culture focus
 The culture of KoalaDAO:
@@ -18,7 +18,7 @@ The culture of KoalaDAO:
   - **Onboarding and education** 
   A big focus for KoalaDAO is true diversity and inclusion through the onboarding and education using mediums like #Blockathon events, content, and other initiatives in the web3 ecosystem.  
 
-Good reference for culture discussion by [Kate Beecroft can be found on DAOtalk](https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670)
+Good reference for culture discussion by [Kate Beecroft](twitter.com/kbeecro)[ can be found on DAOtalk](https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670)
 
 ### Operation
 - Sprints: Facilitated by Melissa Ran
