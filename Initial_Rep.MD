@@ -78,13 +78,21 @@
 **Kendrick Tan** - OmiseGO, bitfwd
 
 ## 10% - Ecosystem partners: 
+
 **AlphaWallet** representative
+
 **Alice** representative
+
 **CryptoChicks**
+
 **Coinstop**
+
 **ConsenSys BUIDL**
+
 **ETHSydney**
+
 **LinkTime**
+
 **dOrg**
 
 
