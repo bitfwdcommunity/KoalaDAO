@@ -57,7 +57,7 @@ At the initial phase, the Eucalyptus Tree Committee will hold majority reputatoi
 
 - **6-12 months horizon:**
 
-The Eucalyptus Tree Committee will encourage the rotation of the inaugural committee members in case they have not naturally moved on.
+The Eucalyptus Tree Committee will encourage the rotation of the inaugural committee members in case they have not naturally moved on. If it isn't done the community is welcome to call on the Eucalyptus Tree Committee out and propose solutions 🥳
 
 ##### Bush Rangers (Advisors)
 The rangers' role is to be there in case the Eucalyptus tree committee needs to review the structure of governance or operation processes and provide mentorship where needed. The rangers can be changed through a proposal to the #KoalaDAO
