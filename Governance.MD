@@ -32,7 +32,8 @@ The #KoalaDAO will have initial stakeholders from the following 4 groups
  1. If a #KoalaDAO rep holder exhibit distructive actions which other members wish to propose a slashing for they are free and encouraged to do so - self regulation.
  1. During the fortnightly retrospect the Eucalyptus Tree facilitator will review the performance of the contributors and will be able to suggest reputation slashing to members based on their work's impact, merit and accountability.
  
-#### Eucalyptus Tree Committee
+#### Eucalyptus Tree Committee 
+- It's not certain whether we will go with the rotational format of governance or not, depending on the mission of the DAO once launched and the dynamics with the funding sources other than Genesis. But this is the aim:
 
 ##### Thesis: 
 
