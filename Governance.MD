@@ -1,11 +1,24 @@
 
-### Governance in the #KoalaDAO
+## Governance in the #KoalaDAO
+
+#### The mission 
+
+#KoalaDAO is for a DAO dedicated to web3 innovation. 
+
+#### Traction 
+
+Meaningful community outreach (#Blockathon events, onboarding, online competitions), products integrations and partnerships.
+
+#### vision 
+
+A world where people from everywhere are empowered by web3 technologies and leverage it for the communities independent or less dependent on the local nation state monetary systems.
+
 
 The #KoalaDAO will have initial stakeholders from the following 4 groups
-1. Community - the early joeys
-1. Communities Organizers -  #KoalaDAO friends who manage other communities.
-1. Eucalyptus Tree Committee - The inaugal committee that will bootsrap the #KoalaDAO operationally.
-1. Bush Rangers (Advisors) - Independent members who will provide the Eucalyptus Tree Committee feedback.
+1. Community - the early joeys 🐨💕
+1. Communities Organizers -  #KoalaDAO friends who manage other communities 🐨👯‍
+1. Eucalyptus Tree Committee - The inaugal committee that will bootsrap the #KoalaDAO operationally 🐨🍃
+1. Bush Rangers (Advisors) - Independent members who will provide the Eucalyptus Tree Committee feedback 🤠🍃
 
 - **Reputation Dynamics** 
 
@@ -20,6 +33,16 @@ The #KoalaDAO will have initial stakeholders from the following 4 groups
  1. During the fortnightly retrospect the Eucalyptus Tree facilitator will review the performance of the contributors and will be able to suggest reputation slashing to members based on their work's impact, merit and accountability.
  
 #### Eucalyptus Tree Committee
+
+##### Thesis: 
+
+One key experiment is in testing a stronger framework and horizontality rather than emergent flat structure:
+
+- We want to give people who are stepping up more responsibility and - **more authority**
+- We want to test this with differentiated reputation levels - giving a distribution function to a small group (the **Eucalyptus Tree Committee 🐨🍃**) who are paying attention to the context of the whole and where necessary elevate impact/value driven actors.
+The committee rewards this with rep and in the process incentivises more action based work to happen.
+Eventually we would like the participation in the Eucalyptus Tree Committee to be rotational - we aim to pass a proposal that decrees that a role in this committee can only last 6 months total
+
 
 The Eucalyptus Tree committee will act as the crew to oversee the guidance around minimaly required administration processes, culture, and project prioritization. **The eucalyptus tree committee will share a regular monthly resolution with the 
 #KoalaDAO community**.
