@@ -2,6 +2,8 @@
 
 Thinking of joining KoalaDAO? We would love to have you!
 
+First time joining a DAO? We've got your back. Head over to this [handy guide](Alchemy_DAO_tutorial.MD).
+
 #### The application will be assessed based on your answers to the following:
 
 #### (NOTE: You definitely DO NOT have to do all of the following. Completing at least 2 or 3 is probably good enough. The more you do, however, the more your application will have weight!)  
@@ -11,8 +13,8 @@ Thinking of joining KoalaDAO? We would love to have you!
 
 1. Meme your way in by using Twitter (or any other public open social platform), sharing 2 of the following options of your choice
 	1. Tweet length post with one or more of the Koalas images related to #KoalaDAO, tagging [@bitfwdxyz](twitter.com/bitfwdxyz) and [DAOstack](twitter.com/daostack) (Feel free to use anything from our /Assets folder or make your own!
-	1. Refer 2 interested peers by tweeting something like: 
-    
+	1. Refer 2 interested peers by tweeting something like:
+
     	"Hey duck, checkout the #KoalaDAO, great entrepreneurship with DAO on [@DAOstack](twitter.com/daostack) with [@bitfwdxyz](twitter.com/bitfwdxyz)"
 
 1. Send 0.1 ETH to the #KoalaDAO and share your tx details link with a member of the Eucalyptus Tree Committee
