@@ -34,7 +34,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 **Rosie Peach Prom** - bitfwd
 
-**Jenny Jingjing Li** - bitfwd
+🥳 **Jenny Jingjing Li** - bitfwd
 
 **Eylon Aviv** - DAOstack
 
@@ -44,7 +44,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 **Matan Field** - DAOstack
 
-**BrianXV** - bitfwd 
+🥳 **BrianXV** - bitfwd 
 
 **Baden Pailthorpe** - Blocumenta
 
