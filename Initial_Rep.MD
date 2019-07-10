@@ -1,8 +1,8 @@
 # List of potential initial reputation hodlers
 
-Syntax for contacts to which a message was sent and those who filled the form and are interested: 
+Syntax for contacts to which a message was sent and those who filled the form and are interested:
 
-**Sent** -  📧 
+**Sent** -  📧
 
 **Interested and Filled** - 🥳
 
@@ -18,7 +18,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 📧 **Daniel Bar** - Founder and #Cryptopreneur - bitfwd
 
 
-## 10% - Early Community Contributors: 
+## 10% - Early Community Contributors:
 
 📧 **Anna Grechko** - bitfwd
 
@@ -28,7 +28,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Jessie** - HiBlock
 
-📧 **Cynthia Chengfang** - HiBlock 
+📧 **Cynthia Chengfang** - HiBlock
 
 **Neo** - bitfwd
 
@@ -44,7 +44,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Matan Field** - DAOstack
 
-🥳 **BrianXV** - bitfwd 
+🥳 **BrianXV** - bitfwd
 
 📧 **Baden Pailthorpe** - Blocumenta
 
@@ -56,19 +56,19 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Chengdong Pan** - bitfwd
 
-**Adrian Guerrera**  - Deepyr
+📧 **Adrian Guerrera**  - Deepyr
 
-**Lucy Lin** - Forestlyn
+📧 **Lucy Lin** - Forestlyn
 
 📧 **Bonnie Yu** - Consuler
 
-**Garrett MacDonald** - Energyweb
+📧 **Garrett MacDonald** - Energyweb
 
-**Hutch (The flying)** - Polkadot
+📧 **Hutch (The flying)** - Polkadot
 
-**Peter Godboldt** - Hut34
+📧 **Peter Godboldt** - Hut34
 
-**Tim McNamarra** - Hut34
+📧 **Tim McNamarra** - Hut34
 
 📧 **Terry Hilsberg** - Innohub
 
@@ -76,21 +76,21 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Jemma Xu** - ProximaX
 
-**Thanh Le** - NEM
+📧 **Thanh Le** - NEM
 
-**Rosa Thompson** - ex ConsenSys 
+📧 **Rosa Thompson** - ex ConsenSys
 
-**Tudor** - Canberra Nuls
+📧 **Tudor** - Canberra Nuls
 
-📧 **Hao Fu** UNSW, Alice
+🥳 **Hao Fu** UNSW, Alice
 
 📧 **Mark Pereira**, Alice, bitfwd
 
-**Kendrick Tan** - OmiseGO, bitfwd
+📧 **Kendrick Tan** - OmiseGO, bitfwd
 
-## 10% - Ecosystem partners: 
+## 10% - Ecosystem partners:
 
-📧 **AlphaWallet** representative 
+📧 **AlphaWallet** representative
 
 📧 **Alice** representative
 
@@ -104,20 +104,20 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **LinkTime**
 
-**dOrg**
+📧 **dOrg**
 
 
-## 10% Advisors: 
+## 10% Advisors:
 
 **Audrey Tan** (Angels of Impact)
 
-📧 **Prof. Aelita Skarzauskiene** 
+📧 **Prof. Aelita Skarzauskiene**
 
-📧 **Prof. Alex Sims** 
+📧 **Prof. Alex Sims**
 
-**Howard Yeh**
+📧 **Howard Yeh**
 
-📧 **Nathan Doctor** 
+📧 **Nathan Doctor**
 
 ## 10% - Community Organizers:
 
@@ -129,13 +129,13 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Paul Poundendis** - Adelaide Blockchain / Blockchain Australia
 
-**Alex Ramsey** - Flexdapps / web3 Australia
+📧 **Alex Ramsey** - Flexdapps / web3 Australia
 
-**Anett Rolikova** - Progressbar
+📧 **Anett Rolikova** - Progressbar
 
 📧 **Ian Love** - Blockchain Assets
 
-**Tomer Weiss** - Jangolabs
+📧 **Tomer Weiss** - Jangolabs
 
 📧 **Lucas Cullen** - Brisbane
 
