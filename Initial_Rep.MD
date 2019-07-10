@@ -143,6 +143,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Mark Pascal** - Welly crypto
 
-📧 **Hayden** - Auckland
+🥳 **Hayden** - Auckland
 
 📧 **Karen Cohen** - Blockchain Australia
