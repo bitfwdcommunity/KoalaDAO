@@ -56,7 +56,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Chengdong Pan** - bitfwd
 
-📧 **Adrian Guerrera**  - Deepyr
+🥳 **Adrian Guerrera**  - Deepyr
 
 📧 **Lucy Lin** - Forestlyn
 
