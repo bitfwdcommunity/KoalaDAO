@@ -45,7 +45,7 @@ Every project will get support of agile and scrum checkins and process design wi
 - Office Hours: Facilitated by [Daniel Bar 🥳⏩🌈](twitter.com/danieltbar)
 Teams will be able to get checkins with mentors from the bitfwd network
 
-- **Community Gardnerers**
+- **Community Gardenerers**
 
 - [BrianXV 😎⏩🌈 ](twitter.com/brianxv15)
 
