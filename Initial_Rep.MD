@@ -24,7 +24,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Julia Lizunova** - bitfwd
 
-📧 **Xiaokang Zhou** - bitfwd
+🥳 **Xiaokang Zhou** - bitfwd
 
 📧 **Jessie** - HiBlock
 
@@ -42,19 +42,19 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Livia Deschermayer** - DAOstack
 
-📧 **Matan Field** - DAOstack
+🥳 **Matan Field** - DAOstack
 
 🥳 **BrianXV** - bitfwd
 
 📧 **Baden Pailthorpe** - Blocumenta
 
-📧 **Denise Thwaites** - Blocumenta
+🥳 **Denise Thwaites** - Blocumenta
 
 📧 **Daud** - bitfwd
 
 📧 **Tom Terado** - bitfwd
 
-📧 **Chengdong Pan** - bitfwd
+🥳 **Chengdong Pan** - bitfwd
 
 🥳 **Adrian Guerrera**  - Deepyr
 
@@ -62,7 +62,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Bonnie Yu** - Consuler
 
-📧 **Garrett MacDonald** - Energyweb
+🥳 **Garrett MacDonald** - Energyweb
 
 📧 **Hutch (The flying)** - Polkadot
 
@@ -80,7 +80,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Rosa Thompson** - ex ConsenSys
 
-📧 **Tudor** - Canberra Nuls
+🥳 **Tudor** - Canberra Nuls
 
 🥳 **Hao Fu** UNSW, Alice
 
@@ -90,7 +90,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 ## 10% - Ecosystem partners:
 
-📧 **AlphaWallet** representative
+🥳 **AlphaWallet** representative - Victor Zhang
 
 📧 **Alice** representative
 
@@ -104,7 +104,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **LinkTime**
 
-📧 **dOrg**
+🥳 **dOrg**
 
 
 ## 10% Advisors:
@@ -131,7 +131,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Alex Ramsey** - Flexdapps / web3 Australia
 
-📧 **Anett Rolikova** - Progressbar
+🥳 **Anett Rolikova** - Progressbar
 
 📧 **Ian Love** - Blockchain Assets
 
