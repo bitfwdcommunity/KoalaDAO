@@ -30,7 +30,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Cynthia Chengfang** - HiBlock
 
-**Neo** - bitfwd
+📧 **Neo** - bitfwd
 
 📧 **Rosie Peach Prom** - bitfwd
 
@@ -40,7 +40,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Kate Beecroft** - DAOstack
 
-📧 **Livia Deschermayer** - DAOstack
+🥳 **Livia Deschermayer** - DAOstack
 
 🥳 **Matan Field** - DAOstack
 
@@ -86,7 +86,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Mark Pereira**, Alice, bitfwd
 
-📧 **Kendrick Tan** - OmiseGO, bitfwd
+🥳 **Kendrick Tan** - OmiseGO, bitfwd
 
 ## 10% - Ecosystem partners:
 
