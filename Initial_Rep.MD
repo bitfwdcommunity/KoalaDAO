@@ -125,7 +125,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **James Zaki** - Indie ETH and maker community educator
 
-📧 **Oscar Ji** - Sydney Blockchain Centre
+🥳 **Oscar Ji** - Sydney Blockchain Centre
 
 📧 **Paul Poundendis** - Adelaide Blockchain / Blockchain Australia
 
