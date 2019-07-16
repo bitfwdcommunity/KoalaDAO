@@ -21,6 +21,7 @@ A proposal form will appear. You should fill it in following the guidelines belo
 ![Filled proposal example](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Filled%20Proposal%20example.png)
 
 N.B. These screenshots were pulled from the Genesis Alpha DAO: **#KoalaDAO will be using the same interface.**
+
 N.B. The exact number you need to enter in **Reputation reward** is yet to be set. (Asking for 100 is the current convention at the moment in Genesis Alpha).
 
 Click on **Submit proposal** and congratulations! You have made your first DAO proposal!
