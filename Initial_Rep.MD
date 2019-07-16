@@ -100,7 +100,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **ConsenSys BUIDL**
 
-📧 **ETHSydney**
+🥳 **ETHSydney** – Nick Addison
 
 📧 **LinkTime**
 
