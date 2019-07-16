@@ -1,4 +1,4 @@
-## Application Guidlines - #KoalaDAO
+## Application Guidelines - #KoalaDAO
 
 Thinking of joining KoalaDAO? We would love to have you!
 
@@ -15,13 +15,13 @@ First time joining a DAO? We've got your back. Head over to this [handy guide](A
 	1. Tweet length post with one or more of the Koalas images related to #KoalaDAO, tagging [@bitfwdxyz](https://twitter.com/bitfwdxyz) and [DAOstack](twitter.com/daostack) (Feel free to use anything from our /Assets folder or make your own!
 	1. Refer 2 interested peers by tweeting something like:
 
-    	"Hey duck, checkout the #KoalaDAO, great entrepreneurship with DAO on [@DAOstack](https://twitter.com/daostack) with [@bitfwdxyz](twitter.com/bitfwdxyz)"
+    	"Hey @duck, checkout the #KoalaDAO, great entrepreneurship with DAO on [@DAOstack](https://twitter.com/daostack) with [@bitfwdxyz](twitter.com/bitfwdxyz)"
 
 1. Send 0.1 ETH to the #KoalaDAO and share your tx details link with a member of the Eucalyptus Tree Committee
 1. Share through video/documentation details about your work related to entrepreneurship in web3 space that could be in line with the #KoalaDAO mission and vision. Share it on social media tagging [@bitfwdxyz](https://twitter.com/bitfwdxyz)
 
 #### Other simple things that can help speed up / give weight to your application:
 
-1. Link your social accounts to your account on Alchemy! That function is there for a reason!
-1. Be active on social media
-1. Engage in the conversation in the relevant community Telegram groups! [bitfwd's](https://t.me/bitfwd) is one of the many!
+1. **Link your social accounts to your account on Alchemy!** That function is there for a reason!
+1. **Be active on social media.** This is an online community! We are looking for those who love engaging in projects through the interwebs!
+1. **Engage in the conversation** in the relevant community Telegram groups! [bitfwd's](https://t.me/bitfwd) is one of the many!
