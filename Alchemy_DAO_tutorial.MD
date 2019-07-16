@@ -16,11 +16,11 @@ This is done by making your own proposal which requests for reputation.
 
 So in the **Contribution Reward** section, you want to click on **+ New proposal**.  
 
-![The proposal form](Tutorial files/Blank Proposal form.png)
+![The proposal form](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Blank%20Proposal%20form.png)
 
 The above proposal form will appear. You should fill it in following the guidelines below:
 
-![Filled proposal example](Tutorial files/Blank Proposal form.png)
+![Filled proposal example](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Filled%20Proposal%20example.png)
 
 N.B. These screenshots were pulled from the Genesis Alpha DAO: **#KoalaDAO will be using the same interface.**
 N.B. The exact number you need to enter in **Reputation reward** is yet to be set. (Asking for 100 is the current convention at the moment in Genesis Alpha).
