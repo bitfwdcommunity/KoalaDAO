@@ -7,7 +7,7 @@
   1. Firefox
   1. Brave
 1. [Metamask](https://metamask.io/): a browser wallet that you can use to log into Alchemy DAO (and many other dapps!) with one click!
-1. **Some ETH**: you'll need it to pay gas fees (pretty much transaction costs) when you submit and vote for (or against) any proposals on the DAO.
+1. **Some ETH**: you'll need it to pay gas fees (i.e. pretty much transaction costs) when you submit and vote for (or against) any proposals on the DAO.
 1. **(Optional but it helps a lot!) An active social media account** (Twitter, Instagram, Facebook, LinkedIn, Discord, Telegram are all fantastic options!)
 
 ### Entering the DAO
