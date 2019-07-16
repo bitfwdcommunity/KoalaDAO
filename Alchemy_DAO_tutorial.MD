@@ -14,11 +14,9 @@
 In order to participate and vote for any proposals in a DAO, you need to ask for reputation first.
 This is done by making your own proposal which requests for reputation.
 
-So in the **Contribution Reward** section, you want to click on **+ New proposal**.  
+So in the **Contribution Reward** section, you want to click on **+ New proposal**.
 
-![The proposal form](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Blank%20Proposal%20form.png)
-
-The above proposal form will appear. You should fill it in following the guidelines below:
+A proposal form will appear. You should fill it in following the guidelines below:
 
 ![Filled proposal example](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Filled%20Proposal%20example.png)
 
