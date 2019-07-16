@@ -119,7 +119,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Nathan Doctor**
 
-## 10% - Community Organizers:
+## 10% - Community Organisers:
 
 📧 **Adriana Belotti** - Blockchain professionals
 
