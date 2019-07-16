@@ -7,7 +7,7 @@
   1. Firefox
   1. Brave
 1. [Metamask](https://metamask.io/): a browser wallet that you can use to log into Alchemy DAO (and many other dapps!) with one click!
-1. **Some ETH**: you'll need it to pay gas fees (pretty much transaction costs) when you submit and vote for (or against) any proposals on the DAO.
+1. **Some ETH**: you'll need it to pay gas fees (i.e. pretty much transaction costs) when you submit and vote for (or against) any proposals on the DAO.
 1. **(Optional but it helps a lot!) An active social media account** (Twitter, Instagram, Facebook, LinkedIn, Discord, Telegram are all fantastic options!)
 
 ### Entering the DAO
@@ -16,11 +16,11 @@ This is done by making your own proposal which requests for reputation.
 
 So in the **Contribution Reward** section, you want to click on **+ New proposal**.  
 
-![The proposal form](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Blank%20Proposal%20form.png)
+![The proposal form](Tutorial files/Blank Proposal form.png)
 
 The above proposal form will appear. You should fill it in following the guidelines below:
 
-![Filled proposal example](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Filled%20Proposal%20example.png)
+![Filled proposal example](Tutorial files/Blank Proposal form.png)
 
 N.B. These screenshots were pulled from the Genesis Alpha DAO: **#KoalaDAO will be using the same interface.**
 N.B. The exact number you need to enter in **Reputation reward** is yet to be set. (Asking for 100 is the current convention at the moment in Genesis Alpha).
