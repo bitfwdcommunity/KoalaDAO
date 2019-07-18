@@ -109,7 +109,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 ## 10% Advisors:
 
-**Audrey Tan** (Angels of Impact)
+📧 **Audrey Tan** (Angels of Impact)
 
 📧 **Prof. Aelita Skarzauskiene**
 
@@ -118,6 +118,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 📧 **Howard Yeh**
 
 📧 **Nathan Doctor**
+
 
 ## 10% - Community Organisers:
 
