@@ -15,7 +15,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Bob Jiang** - Agile and Scrum #Blockathon Dragon - HiBlock
 
-📧 **Daniel Bar** - Founder and #Cryptopreneur - bitfwd
+🥳 **Daniel Bar** - Founder and #Cryptopreneur - bitfwd
 
 
 ## 10% - Early Community Contributors:
