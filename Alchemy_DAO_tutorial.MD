@@ -18,7 +18,7 @@ So in the **Contribution Reward** section, you want to click on **+ New proposal
 
 A proposal form will appear. You should fill it in following the guidelines below:
 
-![Filled proposal example](https://raw.githubusercontent.com/bitfwdcommunity/KoalaDAO/master/Tutorial%20files/Filled%20Proposal%20example.png)
+![Filled proposal example](Tutorial files/Reputation request example.png)
 
 N.B. These screenshots were pulled from the Genesis Alpha DAO: **#KoalaDAO will be using the same interface.**
 
