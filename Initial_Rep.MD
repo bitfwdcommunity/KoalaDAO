@@ -46,11 +46,13 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **BrianXV** - bitfwd
 
+🥳 **Artur Gladkov** - bitfwd
+
 📧 **Baden Pailthorpe** - Blocumenta
 
 🥳 **Denise Thwaites** - Blocumenta
 
-📧 **Daud** - bitfwd
+🥳 **Daud** - bitfwd
 
 📧 **Tom Terado** - bitfwd
 
@@ -77,8 +79,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 📧 **Jemma Xu** - ProximaX
 
 📧 **Thanh Le** - NEM
-
-📧 **Rosa Thompson** - ex ConsenSys
 
 🥳 **Tudor** - Canberra Nuls
 
