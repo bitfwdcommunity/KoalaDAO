@@ -84,7 +84,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Hao Fu** UNSW, Alice
 
-📧 **Mark Pereira**, Alice, bitfwd
+🥳 **Mark Pereira**, Alice, bitfwd
 
 🥳 **Kendrick Tan** - OmiseGO, bitfwd
 
