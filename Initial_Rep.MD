@@ -46,7 +46,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **BrianXV** - bitfwd
 
-🥳 🥳 **Artur Gladkov** - bitfwd
+🥳 **Artur Gladkov** - bitfwd
 
 📧 **Baden Pailthorpe** - Blocumenta
 
