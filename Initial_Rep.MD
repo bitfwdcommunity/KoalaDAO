@@ -78,8 +78,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Thanh Le** - NEM
 
-📧 **Rosa Thompson** - ex ConsenSys
-
 🥳 **Tudor** - Canberra Nuls
 
 🥳 **Hao Fu** UNSW, Alice
