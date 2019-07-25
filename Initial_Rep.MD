@@ -32,7 +32,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Neo** - bitfwd
 
-📧 **Rosie Peach Prom** - bitfwd
+🥳 **Rosie Peach Prom** - bitfwd
 
 🥳 **Jenny Jingjing Li** - bitfwd, Sydney Blockchain Centre
 
