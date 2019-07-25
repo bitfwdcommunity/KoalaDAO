@@ -111,7 +111,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Audrey Tan** - Angels of Impact
 
-📧 **Prof. Aelita Skarzauskiene**
+🥳 **Prof. Aelita Skarzauskiene**
 
 📧 **Prof. Alex Sims**
 
