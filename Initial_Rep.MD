@@ -68,9 +68,9 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Hutch (The flying)** - Polkadot
 
-📧 **Peter Godboldt** - Hut34
+🥳 **Peter Godboldt** - Hut34
 
-📧 **Tim McNamarra** - Hut34
+🥳 **Tim McNamarra** - Hut34
 
 📧 **Terry Hilsberg** - Innohub
 
@@ -129,8 +129,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 🥳 **Oscar Ji** - Sydney Blockchain Centre
 
 📧 **Paul Poundendis** - Adelaide Blockchain / Blockchain Australia
-
-📧 **Alex Ramsey** - Flexdapps / web3 Australia
 
 🥳 **Anett Rolikova** - Progressbar
 
