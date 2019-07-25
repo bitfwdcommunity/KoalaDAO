@@ -92,7 +92,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **AlphaWallet** representative - Victor Zhang
 
-📧 **Alice** representative
+🥳 **Alice** representative
 
 📧 **CryptoChicks**
 
