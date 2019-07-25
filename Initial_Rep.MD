@@ -66,7 +66,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Garrett MacDonald** - Energyweb
 
-📧 **Hutch (The flying)** - Polkadot
+🥳 **Hutch (The flying)** - Polkadot
 
 📧 **Peter Godboldt** - Hut34
 
@@ -82,9 +82,9 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Tudor** - Canberra Nuls
 
-🥳 **Hao Fu** UNSW, Alice
+🥳 **Hao Fu** - UNSW, Alice
 
-🥳 **Mark Pereira**, Alice, bitfwd
+🥳 **Mark Pereira** - Alice, bitfwd
 
 🥳 **Kendrick Tan** - OmiseGO, bitfwd
 
@@ -109,7 +109,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 ## 10% Advisors:
 
-📧 **Audrey Tan** (Angels of Impact)
+📧 **Audrey Tan** - Angels of Impact
 
 📧 **Prof. Aelita Skarzauskiene**
 
