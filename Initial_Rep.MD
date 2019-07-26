@@ -11,9 +11,15 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 
 
-## 60% Initial Eucalyptus Tree Committee 🍃
+## 60% Initial Gardeners Committee 🍃
 
 **You?** - Ops, Incubation hopping Facilitator - bitfwd
+
+🥳 **BrianXV** - bitfwd
+
+🥳 **Jenny Jingjing Li** - bitfwd, Sydney Blockchain Centre
+
+🥳 **Anett Rolikova** - Progressbar
 
 📧 **Bob Jiang** - Agile and Scrum #Blockathon Dragon - HiBlock
 
@@ -41,17 +47,12 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Rosie Peach Prom** - bitfwd
 
-🥳 **Jenny Jingjing Li** - bitfwd, Sydney Blockchain Centre
 
 📧 **Eylon Aviv** - DAOstack
 
-📧 **Kate Beecroft** - DAOstack
 
 🥳 **Livia Deschermayer** - DAOstack
 
-🥳 **Matan Field** - DAOstack
-
-🥳 **BrianXV** - bitfwd
 
 🥳 **Artur Gladkov** - bitfwd
 
@@ -72,8 +73,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 📧 **Bonnie Yu** - Consuler
 
 🥳 **Garrett MacDonald** - Energyweb
-
-🥳 **Hutch (The flying)** - Polkadot
 
 🥳 **Peter Godboldt** - Hut34
 
@@ -99,8 +98,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **AlphaWallet** representative - Victor Zhang
 
-🥳 **Alice** representative
-
 📧 **CryptoChicks**
 
 📧 **Coinstop**
@@ -120,6 +117,10 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Prof. Aelita Skarzauskiene**
 
+🥳 **Matan Field** - DAOstack
+
+📧 **Kate Beecroft** - DAOstack
+
 📧 **Prof. Alex Sims**
 
 📧 **Howard Yeh**
@@ -137,7 +138,9 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Paul Poundendis** - Adelaide Blockchain / Blockchain Australia
 
-🥳 **Anett Rolikova** - Progressbar
+🥳 **Hutch (The flying)** - Polkadot
+
+🥳 **Hayden** - Auckland
 
 📧 **Ian Love** - Blockchain Assets
 
@@ -148,7 +151,5 @@ Syntax for contacts to which a message was sent and those who filled the form an
 📧 **Angela Bee Chan**  - HackAUS
 
 📧 **Mark Pascal** - Welly crypto
-
-🥳 **Hayden** - Auckland
 
 📧 **Karen Cohen** - Blockchain Australia
