@@ -1,4 +1,4 @@
-# #KoalaDAO V 1.0 - Joey
+# KoalaDAO #Blockathon V 1.0 - Joey
  This is readme file outlines how the [bitfwd community](https://twitter.com/bitfwdxyz) together with [HiBlock](https://github.com/HiBlock) will roll out the experimental #KoalaDAO #Blockathon web3 native environment for innovation and entrepreneurship.
 
 ## Brief
@@ -32,21 +32,20 @@ A big focus for KoalaDAO #Blockathon is true diversity and inclusion through the
 
 
 ### Operation
-- Sprints: Facilitated by the community gardeners
-* Weekly [Discord](https://discord.gg/4xkwkdt) KoalaDAO #Blockathon catchup call + updates submissions members and teams re:
-1. **Sprint targets** Each project team will share Sprint targets on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827086)
-1. **No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082)
+- Progress updates: Facilitated by the community gardeners
 
+*Weekly [Discord](https://discord.gg/4xkwkdt) KoalaDAO #Blockathon catchup touchpoint (call for those whom their timezone permits) + updates submissions members and teams. Before the weekly touchpoint:
+1. **Sprint targets** Each project team will share Sprint targets on the [Open KoalaDAO #Blockathon Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827086).
+1. **No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO #Blockathon Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082).
 
-******
 - Retrospects: Facilitated by [bitfwd insight team 🐨⏩🌈](https://twitter.com/bitfwdxyz)
-At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals, reporting will be done on the KoalaDAO open Kanban in the respective columns.
+At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals, reporting will be done on the [KoalaDAO #Blockathon Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082) in the respective columns.
 
 - Agile Project plan: Facilitated by [Bob Jiang 🐲⏩🌈](https://twitter.com/bobjiang123)
 Every project will get support of agile and scrum checkins and process design with Bob Jiang's help.
 
 - Office Hours: Facilitated by [Daniel Bar 🥳⏩🌈](https://twitter.com/danieltbar)
-Teams will be able to get checkins with mentors from the bitfwd network
+Teams will be able to get checkins with mentors from the bitfwd ventures network.
 
 - **Community Gardenerers**
 
@@ -54,19 +53,26 @@ Teams will be able to get checkins with mentors from the bitfwd network
 
 - [Jenny Jinkjonk 🦆⏩🌈](https://twitter.com/notjingjing)
 
+- [⟠ Anett ⟠ 🥰⏩🌈](https://twitter.com/AnettRolikova)
 
 
-### Areas of activity
-the #KoalaDAO will initially start by working on the following channels:
+
+### Areas of activity and interest
+
+The KoalaDAO #Blockathon will be suppoerting initiatives in the following domains:
+
+**Social**
+
+- Web3 tech projects and products that are geared to social technologies (e.g. social media, DAOs, visual products, Art)
 
 
-## China
-The **KoalaDAO** will serve DAOstack by opening the channel to the Chinese market
+**China market**
+
+- The **KoalaDAO #Blockathon** will serve the DAOstack ecosystem by opening the channel to the Chinese market
 - Meetups with leading crypto communities in major innovation hubs: Shenzhen, Beijing, Hangzou, Chengdu, Shanghai
-- Content localization
-- #Blockathon DAO China
+- Content localization (WeChat official Accounts, Weibo, local open source platforms).
 - Alchemy interface in Chinese
-- Establish a Chinese community DAO similar to Genesis / KoalaDAO the **PanDAO** 🐼⏩🌈
+- Prepare for a Chinese community DAO similar to Genesis / KoalaDAO the **PanDAO** 🐼⏩🌈
 
 ## UX and Mobile
 UX is a big area of interest with the bitfwd ecosystem. Particularly given our strong affiliation with Asia where mobile native is the norm. The areas which are of interest to us:
@@ -77,8 +83,9 @@ UX is a big area of interest with the bitfwd ecosystem. Particularly given our s
 - Smart token interfaces (offer GEN staking functions straight in a mobile wallet)
 - DAO Browser
 
+
 ## Digital/DAO Culture Configuration
-Research and development of DAO sustainability through culture configuration. The way we intend to do it is through the implementation of social campaigns and learn from experiments what trends are exhausting certain aspect of the DAOs (resoure, user engagement, growth etc) and what are nurturing using different governance and social configurations.
+Research and development of DAO sustainability through implementation of social campaigns and learn from experiments what trends are nurturing the DAO and what trends are exhausting DAOs (resoure, user engagement, growth etc).
 
 ## Social Impact and Education
 We work with students societies, universities, and social impact organizations on educational activities across developments and general literacy. Educating through the use of DAO ecosystem products is something we are very interested in.
@@ -89,13 +96,14 @@ Our MVG (Minimum Viable Governance) is found [here](https://github.com/bitfwdcom
 
 ## Deliverables and Timeline for phase 1
 
+Run a 1 month long online #Blockathon using Alchemy as a platform, Discord + Telegram for communication channels, Github + Devpost for project management.
+
+- Interviews + Creative Videos 
+ 
+- Social Media coverage + content
+
+- Report on the work output
+
 ## Follow up plans after Phase 1
-PanDAO, mobile working groups, PanDAO #Blockathon, KoalaDAO evaluation
 
-## Appendix
-
-### A
-
-### B
-
-### C
+Iterate to run a 2nd month long online #Blockathon.
