@@ -6,6 +6,8 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 **Interested and Filled** - 🥳
 
+**To Invite** 💜
+
 
 
 
@@ -27,6 +29,11 @@ Syntax for contacts to which a message was sent and those who filled the form an
 🥳 **Xiaokang Zhou** - bitfwd
 
 📧 **Jessie** - HiBlock
+
+💜 **Crhistopher** - Coinstop
+
+💜 **Johnathan** - Coinstop
+
 
 📧 **Cynthia Chengfang** - HiBlock
 
