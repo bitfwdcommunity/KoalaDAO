@@ -1,29 +1,30 @@
 # #KoalaDAO V 1.0 - Joey
- This is readme file outlines how the [bitfwd community](https://twitter.com/bitfwdxyz) will roll out the #KoalaDAO experiment as a testbed for innovation and entrepreneurship in web3 native environment.
+ This is readme file outlines how the [bitfwd community](https://twitter.com/bitfwdxyz) together with [HiBlock](https://github.com/HiBlock) will roll out the experimental #KoalaDAO #Blockathon web3 native environment for innovation and entrepreneurship.
 
 ## Brief
-The #KoalaDAO mission is to manage projects and resources as a decentralized ecosystem accelerator community. At the initial stage, the majority of the reputation will be held with the [eucalyptus tree committee](https://github.com/bitfwdcommunity/KoalaDAO/blob/master/Initial_Rep.MD#60-initial-board--eucalyptus-tree-committee) as described in the governance section below. The reputation will be dynamically adjusted using DAOstack's Alchemy platform. Stakeholders of #KoalaDAO are diverse and come from different organizations or are independent contributors and others.
+The KoalaDAO #Blockathon mission is to run a continuous online Blockchain hackathon that is geared toward inclusive participation and supports the growth of leading crypto projects in that are matching the following verticals: **Social, Mobile and Consumer Market**.
+
+The aim is to serve as testbed for a decentralized ecosystem accelerator community. At the initial stage, the majority of the reputation will be held with the [eucalyptus tree committee](https://github.com/bitfwdcommunity/KoalaDAO/blob/master/Initial_Rep.MD#60-initial-board--eucalyptus-tree-committee) as described in the governance section below. The reputation will be dynamically adjusted using DAOstack's Alchemy platform. Stakeholders of #KoalaDAO #Blockathon are diverse and come from different organizations or are independent contributors and others.
 
 ### Web3 ecosystem acceleration
-The mission #KoalaDAO embody is to bootsrap a peer-to-peer cryptoeconomy, serve the broad web3 ecosystem and specifically nourish the DAOstack ecosystem as a foundation.
+The mission KoalaDAO #Blockathon embodies is to bootsrap a peer-to-peer cryptoeconomy, serve the broad web3 ecosystem and specifically nourish the ventures associated to [bitfwd](https://www.bitfwd.com).
 
 ### Culture focus
-The culture of #KoalaDAO:
+Culture @ #KoalaDAO #Blockathon:
+
 - **Celebrating entrepreneurship**
 
 Encourage impactful action bias approach, minimize bureaucracy and self correct ruthlessly as issues arrise.
 
- - **Grassroots driven**
+- **Grassroots driven**
 
 Core value to our ethos are initiatives that promote the success of the true p2p economy movement.
 
-  - **Onboarding and education**
+- **Onboarding and education**
 
-A big focus for KoalaDAO is true diversity and inclusion through the onboarding and education using mediums like #Blockathon events, content, and other initiatives in the web3 ecosystem.  
+A big focus for KoalaDAO #Blockathon is true diversity and inclusion through the onboarding and education using mediums like reward driven campaigns, events, content, and other initiatives in the web3 ecosystem.  
 
 *  Check the link to a [YouTube video of a recent #Blockathon DAO event bitfwd did with DAOstack](https://www.youtube.com/watch?v=eHsdvfZ4QOU)
-
-* A good reference for a discussion about Genesis DAO culture by [Kate Beecroft](https://twitter.com/kbeecro)can be found on[DAOtalk](https://daotalk.org/t/do-we-have-a-culture-of-bureacracy-in-genesis/670)
 
 ### Join the #KoalaDAO
 
@@ -31,11 +32,13 @@ A big focus for KoalaDAO is true diversity and inclusion through the onboarding 
 
 
 ### Operation
-- Sprints: Facilitated by the community wizard
-* Every fortnight will be kicked off with a KoalaDAO catchup call with updates from teams re:
+- Sprints: Facilitated by the community gardeners
+* Weekly [Discord](https://discord.gg/4xkwkdt) KoalaDAO #Blockathon catchup call + updates submissions members and teams re:
 1. **Sprint targets** Each project team will share Sprint targets on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827086)
 1. **No-Fail-Goals** - Each project team will share NFG on the [Open KoalaDAO Kanban](https://github.com/orgs/bitfwdcommunity/projects/1#column-5827082)
 
+
+******
 - Retrospects: Facilitated by [bitfwd insight team 🐨⏩🌈](https://twitter.com/bitfwdxyz)
 At the end of a fortnight we'll be looking at the performance of the sprint targets and the No Fail Goals, reporting will be done on the KoalaDAO open Kanban in the respective columns.
 
