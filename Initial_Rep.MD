@@ -34,8 +34,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 💜 **Johnathan** - Coinstop
 
-💜 **Steven Evans** - bitfwd
-
 
 📧 **Cynthia Chengfang** - HiBlock
 
