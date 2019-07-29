@@ -26,7 +26,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 🥳 **Daniel Bar** - Founder and #Cryptopreneur - bitfwd
 
 
-## 10% - Early Community Contributors:
+## 15% - Early Community Contributors:
 
 📧 **Anna Grechko** - bitfwd
 
@@ -40,19 +40,15 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 💜 **Johnathan** - Coinstop
 
-
 📧 **Cynthia Chengfang** - HiBlock
 
 📧 **Neo** - bitfwd
 
 🥳 **Rosie Peach Prom** - bitfwd
 
-
 📧 **Eylon Aviv** - DAOstack
 
-
 🥳 **Livia Deschermayer** - DAOstack
-
 
 🥳 **Artur Gladkov** - bitfwd
 
@@ -94,24 +90,8 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Kendrick Tan** - OmiseGO, bitfwd
 
-## 10% - Ecosystem partners:
 
-🥳 **AlphaWallet** representative - Victor Zhang
-
-📧 **CryptoChicks**
-
-📧 **Coinstop**
-
-📧 **ConsenSys BUIDL**
-
-🥳 **ETHSydney** – Nick Addison
-
-📧 **LinkTime**
-
-🥳 **dOrg**
-
-
-## 10% Advisors:
+## 15% Ecosystem Partners & Sponsors:
 
 📧 **Audrey Tan** - Angels of Impact
 
@@ -126,6 +106,20 @@ Syntax for contacts to which a message was sent and those who filled the form an
 📧 **Howard Yeh**
 
 📧 **Nathan Doctor**
+
+🥳 **AlphaWallet** representative - Victor Zhang
+
+📧 **CryptoChicks**
+
+📧 **Coinstop**
+
+📧 **ConsenSys BUIDL**
+
+🥳 **ETHSydney** – Nick Addison
+
+📧 **LinkTime**
+
+🥳 **dOrg**
 
 
 ## 10% - Community Organisers:
