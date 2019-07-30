@@ -36,7 +36,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Jessie** - HiBlock
 
-💜 **Crhistopher** - Coinstop
+💜 **Christopher** - Coinstop
 
 💜 **Johnathan** - Coinstop
 
@@ -90,10 +90,16 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Kendrick Tan** - OmiseGO, bitfwd
 
+🥳 **Aaron Perlmutter**
+
+🥳 **David Yu**
+
+
+
 
 ## 15% Ecosystem Partners & Sponsors:
 
-📧 **Audrey Tan** - Angels of Impact
+🥳 **Audrey Tan** - Angels of Impact
 
 🥳 **Prof. Aelita Skarzauskiene**
 
@@ -124,7 +130,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 ## 10% - Community Organisers:
 
-📧 **Adriana Belotti** - Blockchain professionals
+🥳 **Adriana Belotti** - Blockchain professionals
 
 📧 **James Zaki** - Indie ETH and maker community educator
 
@@ -142,7 +148,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Lucas Cullen** - Brisbane
 
-📧 **Angela Bee Chan**  - HackAUS
+🥳 **Angela Bee Chan**  - HackAUS
 
 📧 **Mark Pascal** - Welly crypto
 
