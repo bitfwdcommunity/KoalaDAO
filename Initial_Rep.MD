@@ -36,9 +36,9 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Jessie** - HiBlock
 
-💜 **Christopher** - Coinstop
+💜 **Christopher Pavlesic** - Coinstop
 
-💜 **Johnathan** - Coinstop
+💜 **Johnathan Ross** - Coinstop
 
 📧 **Cynthia Chengfang** - HiBlock
 
@@ -93,8 +93,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 🥳 **Aaron Perlmutter**
 
 🥳 **David Yu**
-
-
 
 
 ## 15% Ecosystem Partners & Sponsors:
