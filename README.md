@@ -98,8 +98,8 @@ Our MVG (Minimum Viable Governance) is found [here](https://github.com/bitfwdcom
 
 Run a 1 month long online #Blockathon using Alchemy as a platform, Discord + Telegram for communication channels, Github + Devpost for project management.
 
-- Interviews + Creative Videos 
- 
+- Interviews + Creative Videos
+
 - Social Media coverage + content
 
 - Report on the work output
