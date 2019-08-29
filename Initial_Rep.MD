@@ -72,7 +72,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Peter Godboldt** - Hut34
 
-🥳 **Tim McNamarra** - Hut34
+🥳 **Tim McNamara** - Hut34
 
 📧 **Terry Hilsberg** - Innohub
 
@@ -109,7 +109,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **Howard Yeh**
 
-📧 **Nathan Doctor**
+🥳 **Nathan Doctor**
 
 🥳 **AlphaWallet** representative - Victor Zhang
 
@@ -123,7 +123,7 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 📧 **LinkTime**
 
-🥳 **dOrg**
+🥳 **dOrg** – Ori Shimony
 
 
 ## 10% - Community Organisers:
@@ -148,6 +148,6 @@ Syntax for contacts to which a message was sent and those who filled the form an
 
 🥳 **Angela Bee Chan**  - HackAUS
 
-📧 **Mark Pascal** - Welly crypto
+🥳 **Mark Pascal** - Welly crypto
 
 📧 **Karen Cohen** - Blockchain Australia
